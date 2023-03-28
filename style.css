@@ -1,4 +1,4 @@
-@import url(" https://fonts.googleapis.com/css2?family=Kufam:wght@700&family=Tajawal:wght@400;700&display=swap   ");
+@import url("https://fonts.googleapis.com/css2?family=Kufam:wght@700&family=Tajawal:wght@400;700&display=swap");
 
 * {
   margin: 0;
@@ -107,7 +107,7 @@ nav ul li a {
       rgba(51, 78, 104, 0.2) 0%,
       rgba(20, 63, 92, 0.8) 20%
     ),
-    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIC6-36eEatEbIoC1YNAJtQfjIGvzzca_xgBuHmN8fZYR824SZbKDmGfTKckyyGABttc&usqp=CAU ")
+    url("./images/background.jpg");
 
   animation: herobg 3s ease-in;
   background-position: center;
