@@ -107,7 +107,7 @@ nav ul li a {
       rgba(51, 78, 104, 0.2) 0%,
       rgba(20, 63, 92, 0.8) 20%
     ),
-    url("./images/background.jpg");
+    url("./download/background. jpg");
 
   animation: herobg 3s ease-in;
   background-position: center;
